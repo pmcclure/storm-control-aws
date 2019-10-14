@@ -1,0 +1,33 @@
+.converter-root-div{
+    padding-left: 30px;
+    padding-top: 15px;
+}
+
+.converter-form-class {
+    width: 300px;
+	padding-top: 30px;
+}
+
+.converter-field-class {
+    padding-top: 30px;
+    white-space: nowrap;
+}
+
+.converter-field-class-hidden {
+	padding-top: 30px;
+	display: none;
+}
+
+.converter-field-title {
+	display: inline-block;
+	width: 200px;
+	padding-bottom: 30px;
+	font-size: 18px;
+
+}
+
+.converter-field-value {
+	display: inline-block;
+	font-size: 18px;
+	color: #BE5108;
+}

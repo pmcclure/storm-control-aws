@@ -1,0 +1,17 @@
+.dns-root-div{
+    padding-left: 30px;
+    padding-top: 15px;
+}
+
+.dns-form-class {
+    padding-top: 30px;
+	width: 300px;
+}
+
+.record-class{
+    padding-top: 10px;
+}
+
+.record-class-hidden{
+    display: none;
+}
